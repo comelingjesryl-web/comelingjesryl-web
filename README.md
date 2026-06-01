@@ -34,6 +34,6 @@ Built a CRUD application using HTML and CSS.
 
 ## 📊 GitHub Stats
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=comelingjesryl-web&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comelingjesryl-web&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comelingjesryl-web&layout=compact&theme=github_dark)

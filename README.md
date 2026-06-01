@@ -32,8 +32,11 @@ Built a CRUD application using HTML and CSS.
 - 💼 FaceBook: https://web.facebook.com/throughdroughtandfamine
 - 🌐 Portfolio: 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=comelingjesryl-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=comelingjesryl-web&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=comelingjesryl-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comelingjesryl-web&show_icons=true&theme=github_dark)
+---
+[![](https://komarev.com/ghpvc/?username=comelingjesryl-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comelingjesryl-web&layout=compact&theme=github_dark)

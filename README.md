@@ -30,7 +30,8 @@ Built a CRUD application using HTML and CSS.
 
 - 📧 Email: jesrylcomeling@gmail.com
 - ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JesrylG.Comeling) 
-- 🌐 Portfolio: 
+- 🌐 Portfolio: comelingjesryl-porfolio.github.io
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=comelingjesryl-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

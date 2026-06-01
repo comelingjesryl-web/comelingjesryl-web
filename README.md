@@ -27,12 +27,12 @@ A Java NetBeans application for managing student records.
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: Your LinkedIn URL
+- 📧 Email: jesrylcomeling@gmail.com
+- 💼 FaceBook: https://web.facebook.com/throughdroughtandfamine
 - 🌐 Portfolio: Your Website URL
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comelingjesryl-web&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comelingjesryl-web&layout=compact)

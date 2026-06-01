@@ -20,11 +20,11 @@
 
 ## 📂 Featured Projects
 
-### Portfolio Website
-A personal portfolio website built using HTML, CSS, and Bootstrap.
+### Inventory Management System
+Developed a GUI-based inventory management system using Java NetBeans.
 
-### Student Information System
-A Java NetBeans application for managing student records.
+### Ecommerce Based System
+Built a CRUD application using HTML and CSS.
 
 ## 📫 Contact Me
 
@@ -34,6 +34,6 @@ A Java NetBeans application for managing student records.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comelingjesryl-web&show_icons=true&theme=github_dark)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=comelingjesryl-web&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comelingjesryl-web&layout=compact&theme=github_dark)

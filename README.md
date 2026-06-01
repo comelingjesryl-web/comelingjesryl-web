@@ -29,7 +29,7 @@ Built a CRUD application using HTML and CSS.
 ## 📫 Contact Me
 
 - 📧 Email: jesrylcomeling@gmail.com
-- 💼 FaceBook: https://web.facebook.com/throughdroughtandfamine
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jesryl G. Comeling) 
 - 🌐 Portfolio: 
 
 # 📊 GitHub Stats:
